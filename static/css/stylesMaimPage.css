@@ -135,7 +135,7 @@ input.submit:hover {
 	margin-bottom: 2%;
     }
 
-#trending_products_cards {
+.trending_products_cards {
 	display: flex;
 	justify-content: center;
 }
